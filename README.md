@@ -1,2 +1,0 @@
-# courseReact
-Created with CodeSandbox
